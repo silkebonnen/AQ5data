@@ -162,10 +162,7 @@
                 "image":"AQ32",
                 "type":"PNG"
             }
-        ]
-    },
-    {
-        "id": 1,
+        ],
         "videos": [
             {
                 "name":"ZERO INTRO VIDEO\n1080 x 1080, 19 sec.",
@@ -197,10 +194,7 @@
                 "video":"https://aquaporin.com/https://ucb372848684af26095a8301caaf.dl.dropboxusercontent.com/cd/0/get/BKwwTRNa7538aLeNzh-XmCJV2nKJwvWGNs7SAL0kA4c7Kp3RHjRpkM3EzKrqD11ERC-8HBhthQ2sEetFllDtZRlwzAodYQkNdE9bkzXw9a6dzu13qnWSOCpytQExIi5dXykHSghgO1iXXr05YvpbzmU7/file?dl=1#",
                 "type":"MP4"
             }
-        ]
-    },
-    {
-        "id": 2,
+        ],
         "text": {
             "id": 2,
             "zero": [
